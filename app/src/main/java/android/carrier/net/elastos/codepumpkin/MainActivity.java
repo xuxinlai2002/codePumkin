@@ -14,6 +14,23 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+        //for carrier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         CCGLSurfaceView ccglSurfaceView = new CCGLSurfaceView(this);//cocos2d提供的SurfaceView
 
         setContentView(ccglSurfaceView);//设置Activity显示的view
