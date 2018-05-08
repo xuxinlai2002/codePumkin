@@ -20,7 +20,6 @@ public class SpriteUtil {
     public static CGSize boxSize;
 
 
-
     public static Random rand = new Random();
 
 
@@ -37,21 +36,10 @@ public class SpriteUtil {
      * @param value
      * @return
      */
-    public static CCLabelAtlas createStepText(String text,CGPoint point,float value){
-       // CCLabel label = new CCLabel("","font/consola.ttf", GameCommon.DEFAULT_FONT_SIZE);
-       // new CCLabel(text,"",1);
-//        CCLabelAtlas  atlas = CCLabelAtlas.label();
-        //CCLabelAtlas atlas = CCLabelAtlas.label(1,"consola.ttf",GameCommon.DEFAULT_FONT_SIZE);
-        //CCLabelAtlas *label = [CCLabelAtlas labelWithString:@"12" charMapFile:@"fps_images.png" itemWidth:12 itemHeight:18 startCharMap:'.'];
-        CCLabelAtlas label = CCLabelAtlas.label("1", "number.png",12, 32, (char)46);
-       // CCLabel label = CCLabel.labelWithString("", "consola.ttf", GameCommon.DEFAULT_FONT_SIZE);
-       // CCTextureNode l = new CCTextureNode();
+    public static CCLabel createStepText(String text, CGPoint point, float value) {
 
-        //CCLabel.labelWithString()
-       // CCLabelAtlas label = CCLabelAtlas;
-       // CCLabelAtlas
-       // label.setColor(ccColor3B.ccBLACK);
-       // label.set
+        CCLabel label = CCLabel.labelWithString(text, "font/consola.ttf", GameCommon.DEFAULT_FONT_SIZE);
+        label.setColor(ccColor3B.ccBLACK);
         label.setPosition(point);
         label.setUserData(value);
         return label;
@@ -63,31 +51,31 @@ public class SpriteUtil {
      * @param
      * @return
      */
-    public static CCSprite createGameUser(){
+    public static CCSprite createGameUser() {
         CCSprite s = new CCSprite("dragon-head.png");
-        s.setPosition(cratePoint(boxSize.getWidth()/2,s.getContentSize().getHeight()));
+        s.setPosition(cratePoint(boxSize.getWidth() / 2, s.getContentSize().getHeight()));
         //s.setAnchorPoint(CGPoint.getZero());
         s.setScale(1.5);
         return s;
 
     }
 
-    public static CCSprite createPumpkin(){
+    public static CCSprite createPumpkin() {
         CCSprite s = new CCSprite("pumpkin.png");
         s.setUserData(1);    // 1 存在  0已经吃掉
         //s.setAnchorPoint(CGPoint.getZero());
         return s;
     }
 
-    public static CCSprite createBush(){
+    public static CCSprite createBush() {
         CCSprite s = new CCSprite("bush.png");
         //s.setAnchorPoint(CGPoint.getZero());
         return s;
     }
 
-    public static CGPoint randomPosition(CCSprite view){
-        return cratePoint( rand.nextInt((int)(boxSize.getWidth()-120)+60),
-                rand.nextInt((int)(boxSize.getHeight()-140))+70 );
+    public static CGPoint randomPosition() {
+        return cratePoint(rand.nextInt((int) (boxSize.getWidth() - 200) + 100),
+                rand.nextInt((int) (boxSize.getHeight() - 300)) + 200);
 //        CGPoint p;
 //        while (true) {
 //            p = cratePoint( rand.nextInt((int)(boxSize.getWidth()-view.getContentSize().getWidth())) + 100,
@@ -102,20 +90,30 @@ public class SpriteUtil {
     }
 
 
-    /**判断点面是否重合*/
-    public static boolean isContainsPointByView (CCSprite view,CGPoint p) {
-        Log.i("point",view.getBoundingBox().toString());
-        Log.i("point",p.toString());
-        return view.getBoundingBox().contains(p.x,p.y);
+
+
+    /**
+     * 判断点面是否重合
+     */
+    public static boolean isContainsPointByView(CCSprite view, CGPoint p) {
+        Log.i("point", view.getBoundingBox().toString());
+        Log.i("point", p.toString());
+        return view.getBoundingBox().contains(p.x, p.y);
     }
 
-    /**单位换算*/
-    public static CGPoint converPx(float x,float y){
-        return cratePoint( GameCommon.gameWidth / GameCommon.deviceWidth * x,GameCommon.gameHeight / GameCommon.deviceHeight * y);
-    };
+    /**
+     * 单位换算
+     */
+    public static CGPoint converPx(float x, float y) {
+        return cratePoint(GameCommon.gameWidth / GameCommon.deviceWidth * x, GameCommon.gameHeight / GameCommon.deviceHeight * y);
+    }
 
-    /**判断面面是否重合*/
-    public static boolean isContainsRect (CCSprite view1,CCSprite view2) {
+    ;
+
+    /**
+     * 判断面面是否重合
+     */
+    public static boolean isContainsRect(CCSprite view1, CCSprite view2) {
         //view1.getBoundingBox()
 //        bool Rect::intersectsRect(const Rect& rect) const
 ////        {
@@ -125,8 +123,9 @@ public class SpriteUtil {
 ////                    rect.getMaxY() <      getMinY());
 ////        }
 //        view1.getBoundingBox().contains()
-       // view1.getBoundingBox().origin.x+view1.getBoundingBox().size.width < view2.getBoundingBox().origin.x
-
-        return  CGRect.containsRect(view1.getBoundingBox(),view2.getBoundingBox());
+        // view1.getBoundingBox().origin.x+view1.getBoundingBox().size.width < view2.getBoundingBox().origin.x
+        Log.i("rect",view1.getBoundingBox().toString()+","+view2.getBoundingBox().toString());
+        return CGRect.intersects(view1.getBoundingBox(), view2.getBoundingBox());
+       // return CGRect.containsRect(view1.getBoundingBox(), view2.getBoundingBox());
     }
 }

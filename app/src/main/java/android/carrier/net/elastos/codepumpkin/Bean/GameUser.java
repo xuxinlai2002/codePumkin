@@ -15,6 +15,8 @@ public class GameUser {
     private CGPoint startPosition;
     /**当前的方向*/
     private int direction;
+    /**吃南瓜的数量*/
+    private int pumpkinCount;
 
     private CCSprite sprite;
 
@@ -67,6 +69,14 @@ public class GameUser {
 
     public void setDirection(int direction) {
         this.direction = direction;
+    }
+
+    public int getPumpkinCount() {
+        return pumpkinCount;
+    }
+
+    public void setPumpkinCount(int pumpkinCount) {
+        this.pumpkinCount = pumpkinCount;
     }
 
     @Override

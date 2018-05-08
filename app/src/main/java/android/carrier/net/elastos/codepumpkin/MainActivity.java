@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         launcherScene = CCScene.node();  //启动页面场景
         gameScene = CCScene.node();
         launcherScene.addChild(new LauncherCCLayer()); //将MyCCLayer层加到场景里
-        gameScene.addChild(new GameCCLayer()); //将MyCCLayer层加到场景里
+        gameScene.addChild(new GameCCLayer(this)); //将MyCCLayer层加到场景里
         CCDirector.sharedDirector().runWithScene(gameScene);// 运行场景
 
 

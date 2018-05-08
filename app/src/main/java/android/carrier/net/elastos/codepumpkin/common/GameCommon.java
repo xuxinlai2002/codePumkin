@@ -3,8 +3,8 @@ package android.carrier.net.elastos.codepumpkin.common;
 public class GameCommon {
 
     public static final int DEFAULT_SIZE = 60;
-    public static final float DEFAULT_TIME = 0.15f;
-    public static final float DEFAULT_FONT_SIZE = 20f;
+    public static final float DEFAULT_TIME = 0.1f;
+    public static final float DEFAULT_FONT_SIZE = 30f;
     public static final int PUMPKIN_COUNT = 5;
     public static final int BUSH_COUNT = 5;
 
