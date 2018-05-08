@@ -5,10 +5,47 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2acd3e51-458f-433d-bb51-361bc6fe0d93" name="Default" comment="">
+    <list default="true" id="03788c89-5047-4743-8aa7-6b5e069908ce" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_xuxinlai_blockchain_codePumkin_app_libs_cocos2d_android_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_xuxinlai_blockchain_codePumkin_app_libs_elacarrier_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/p2pNet/CarrierExec.java" afterPath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/p2pNet/CarrierExecutor.java" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java" afterPath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/util/SpriteUtil.java" afterPath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/util/SpriteUtil.java" />
+      <change beforePath="$PROJECT_DIR$/codePumkin.iml" afterPath="$PROJECT_DIR$/codePumkin.iml" />
+      <change beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,33 +59,25 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view />
-      </state>
-    </system>
-  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <file leaf-file-name="GameCCLayer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="253">
+              <caret line="37" column="33" lean-forward="false" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+              <folding>
+                <element signature="method#initBg#0;class#GameCCLayer#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
+      <file leaf-file-name="SpriteUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/util/SpriteUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="250">
+              <caret line="38" column="7" lean-forward="false" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -57,63 +86,296 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="308">
+              <caret line="76" column="93" lean-forward="false" selection-start-line="76" selection-start-column="93" selection-end-line="76" selection-end-column="93" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ElastosException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/common/ElastosException.java">
+      <file leaf-file-name="GameUser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/GameUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="23">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Action.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/Action.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MyCCLayer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/MyCCLayer.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/MyCCLayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NetOptions.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/common/NetOptions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Synchronizer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/common/Synchronizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            <state relative-caret-position="521">
+              <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CarrierExecutor.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/p2pNet/CarrierExecutor.java">
+      <file leaf-file-name="CCNode.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/nodes/CCNode.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="262">
+              <caret line="202" column="17" lean-forward="false" selection-start-line="202" selection-start-column="11" selection-end-line="202" selection-end-column="17" />
+              <folding>
+                <marker date="1525739665815" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1525739665815" expanded="false" signature="141:1189" ph="..." />
+                <marker date="1525739665815" expanded="false" signature="2327:2404" ph="compare(o1, o2) → {" />
+                <marker date="1525739665815" expanded="false" signature="2453:2464" ph="}" />
+                <marker date="1525739665815" expanded="true" signature="2564:2625" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="2657:2668" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="2690:2696" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="2737:2877" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="2907:2918" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="2938:2944" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="2982:3119" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="3149:3160" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="3180:3186" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="3224:3361" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="3397:3548" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="3578:3808" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="3844:3979" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="4008:4019" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="4038:4044" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="4080:4215" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="4244:4255" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="4274:4280" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="4326:4420" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="4479:4637" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="4682:4693" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="4728:4734" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="4779:4790" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="4835:4841" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="4892:5277" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="5314:5400" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="5439:5450" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="5475:5481" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="5526:5537" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="5571:5577" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="5628:6004" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="6042:6120" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="6160:6171" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="6196:6202" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="6239:6424" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="6458:6469" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="6525:6531" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="6568:6579" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="6601:6607" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="6649:6660" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="6691:6697" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="6745:6947" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="6981:7107" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="7140:7151" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="7169:7175" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="7217:7228" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="7246:7252" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="7285:7296" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="7317:7323" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="7368:7379" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="7403:7409" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="7440:7451" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="7471:7477" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="7519:7530" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="7552:7558" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="7583:7594" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="7611:7617" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="7650:7661" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="7677:7683" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="7714:7725" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="7746:7752" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="7789:7800" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="7818:7824" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="7852:7863" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="7883:7889" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="7925:7936" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="7953:7959" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="7998:8009" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="8031:8037" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="8070:8081" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="8102:8108" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="8150:8161" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="8182:8188" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="8220:8231" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="8254:8260" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="8293:8304" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="8324:8330" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="8355:9149" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="9208:9631" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="9681:9800" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="9843:9974" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="10036:10143" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="10173:10184" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="10222:10228" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="10289:10450" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="10511:10772" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="10825:11282" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="11325:11673" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="11737:11956" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="12013:12157" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="12189:12196" ph="{}" />
+                <marker date="1525739665815" expanded="true" signature="12229:13368" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="13405:14396" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="14442:14585" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="14634:14809" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="14843:14854" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="14909:14915" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="14961:15030" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="15068:15184" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="15225:15345" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="15387:15471" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="15505:15516" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="15539:15545" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="15592:15687" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="15723:15734" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="15787:15793" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="15836:15847" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="15877:15883" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="15943:16188" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="16239:16250" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="16280:16286" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="16354:16599" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="16645:16764" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="16818:16937" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="16980:17055" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="17101:17214" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="17259:17370" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="17426:18964" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="19019:19233" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="19288:19534" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="19597:19815" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="19869:19941" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="20004:20095" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="20153:20506" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="20556:20567" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="20608:20614" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="20675:20730" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="20798:21094" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="21153:21293" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="21353:21445" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="21514:21810" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="21870:22005" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="22066:22262" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="22326:22915" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="22983:23777" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="23851:24237" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="24303:24894" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="24955:25111" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="25146:25226" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="25277:25779" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="25807:26101" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="26132:26220" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="26248:26569" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="26616:26882" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="26909:27229" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="27289:27300" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="27309:27315" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="27413:27594" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="27697:27859" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="27991:28189" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="28251:28610" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="28659:28670" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="28695:28701" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="28752:28763" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="28788:28794" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="28915:28993" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="29123:31119" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="31164:31175" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="31198:31204" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="31262:31273" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="31310:31316" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="31374:31385" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="31422:31428" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="31483:31494" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="31523:31529" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="31593:31646" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="31702:31713" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="31746:31752" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="31810:31821" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="31854:31860" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="31906:31917" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="31939:31945" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="31992:32003" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="32025:32031" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="32094:32162" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="32224:32305" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="32369:32450" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="32498:32509" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="32529:32535" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="32581:32592" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="32640:32646" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="32707:32718" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="32751:32757" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="32808:32819" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="32858:32864" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="32913:32996" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="33044:33111" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="33177:33228" ph="{...}" />
+                <marker date="1525739665815" expanded="false" signature="33283:33294" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="33325:33331" ph=" }" />
+                <marker date="1525739665815" expanded="false" signature="33361:33372" ph=" { " />
+                <marker date="1525739665815" expanded="false" signature="33409:33415" ph=" }" />
+                <marker date="1525739665815" expanded="true" signature="33458:33553" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="33621:33790" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="33835:33999" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="34057:34296" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="34336:34456" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="34501:34665" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="34728:34853" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="34893:35013" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="35070:35136" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="35185:35253" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="35290:35351" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCCallFunc.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/actions/instant/CCCallFunc.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding>
+                <marker date="1525739665815" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1525739665815" expanded="false" signature="151:209" ph="..." />
+                <marker date="1525739665815" expanded="true" signature="466:537" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="617:688" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="749:1424" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="1455:1544" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="1584:1645" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="1673:1811" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCSequence.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/actions/interval/CCSequence.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1725">
+              <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+              <folding>
+                <marker date="1525739665815" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1525739665815" expanded="false" signature="152:229" ph="..." />
+                <marker date="1525739665815" expanded="true" signature="496:1006" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="1081:1204" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="1235:1321" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="1361:1490" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="1515:1608" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="1642:2640" ph="{...}" />
+                <marker date="1525739665815" expanded="true" signature="2674:2766" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,11 +391,23 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>TestOptions</find>
+      <find>userData</find>
+      <find>IntersectsRect</find>
+      <find>_fontName</find>
+      <find>createStepPromptPosition</find>
+      <find>l</find>
+      <find>createStepText</find>
+      <find>createStepPrompt</find>
+      <find>left</find>
+      <find>initC</find>
+      <find>duration</find>
+      <find>CCCallFunc</find>
+      <find>intersectsRect</find>
+      <find>random</find>
+      <find>actionList</find>
+      <find>actionLoop</find>
+      <find>spriteStepBox</find>
     </findStrings>
-    <replaceStrings>
-      <replace>netOptions</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -141,7 +415,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\Administrator\.gradle\wrapper\dists\gradle-4.4-all\9br9xq1tocpiv8o6njlyu5op1\gradle-4.4" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -2006,149 +2280,149 @@
               <option name="name" value="codePumkin" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ide" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-integ-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/reporting" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-option" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/launcher" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-base" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/announce" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/signing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/installation-beacon" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/jvm-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/tooling-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-play" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ivy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/wrapper" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/process-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/plugins" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/antlr" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/plugin-use" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/maven" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/testing-base" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/version-control" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/osgi" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-http" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/composite-builds" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/model-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/test-kit" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/cli" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-init" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ear" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/jacoco" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/persistent-cache" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-comparison" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/publish" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-sftp" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/base-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/model-core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/diagnostics" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/dependency-management" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ide-play" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/workers" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/code-quality" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-java" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-cache" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/plugin-development" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/core-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/javascript" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-gcs" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/testing-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-performance-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ide-native" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/base-services-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/messaging" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/testing-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/tooling-api-builders" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/logging" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-s3" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-cache" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-cache-http" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-wrapper-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-logging-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-native-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-runtime-api-info-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-kotlin-dsl-tooling-builders-0.13.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-build-cache-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-process-services-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-base-services-groovy-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-installation-beacon-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/groovy-all-2.4.12.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-core-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/ant-launcher-1.9.9.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-model-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-option" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/core-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/persistent-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-gcs" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/version-control" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/wrapper" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/ant-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/ant-launcher-1.9.9.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-base-services-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-kotlin-dsl-0.13.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-launcher-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-jvm-services-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-messaging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-base-services-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-build-cache-4.4.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-build-option-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-kotlin-dsl-tooling-models-0.13.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-persistent-cache-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-docs-4.4.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-cli-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-core-4.4.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-core-api-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-tooling-api-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-resources-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-docs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-installation-beacon-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-jvm-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-kotlin-dsl-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-kotlin-dsl-tooling-builders-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-kotlin-dsl-tooling-models-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-launcher-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-logging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-messaging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-model-core-4.4.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-model-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-persistent-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-process-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-resources-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-runtime-api-info-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-tooling-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-wrapper-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/groovy-all-2.4.12.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-announce-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-tooling-api-builders-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ide-play-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-scala-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-plugin-use-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-version-control-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-native-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-build-comparison-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-plugins-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-jacoco-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-native-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-javascript-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-workers-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-build-cache-http-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ide-native-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-diagnostics-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-plugin-development-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-jvm-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-base-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-testing-native-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-dependency-management-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-composite-builds-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-publish-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ear-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-http-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-scala-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-gcs-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ide-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-play-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-reporting-4.4.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-antlr-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-java-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-groovy-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-osgi-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ivy-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-test-kit-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-code-quality-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-s3-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-signing-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-sftp-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-maven-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-build-cache-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-build-comparison-4.4.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-build-init-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-testing-jvm-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/ivy-2.2.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-testing-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-code-quality-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-composite-builds-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-dependency-management-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-diagnostics-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ear-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ide-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ide-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ide-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ivy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-jacoco-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-javascript-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-java-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-maven-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-osgi-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-base-4.4.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-plugin-development-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-plugin-use-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-plugins-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-publish-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-reporting-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-gcs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-s3-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-sftp-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-signing-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-test-kit-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-testing-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-testing-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-testing-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-tooling-api-builders-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-version-control-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-workers-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -2170,20 +2444,27 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/MyCCLayer.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/sesrve/SceneHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/LauncherCCLayer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/GameUser.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/Action.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/common/GameCommon.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/helper/TestOptions.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/helper/NetOptions.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/p2pNet/CarrierExec.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/p2pNet/CarrierExecutor.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/util/SpriteUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="231" />
+    <option name="y" value="117" />
+    <option name="width" value="1630" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -2200,79 +2481,73 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="main" type="cbb8eebc:String" user="main" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="main" type="cbb8eebc:String" user="main" />
-              <item name="assets" type="cbb8eebc:String" user="assets" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="main" type="cbb8eebc:String" user="main" />
-              <item name="java" type="cbb8eebc:String" user="java" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="main" type="cbb8eebc:String" user="main" />
-              <item name="java" type="cbb8eebc:String" user="java" />
-              <item name="android/carrier/net/elastos/codepumpkin" type="cbb8eebc:String" user="android/carrier/net/elastos/codepumpkin" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="codePumkin" type="cbb8eebc:String" user="codePumkin" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="AndroidView">
         <subPane>
           <expand>
             <path>
               <item name="codePumkin" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="e9137016:NonAndroidModuleNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
             </path>
             <path>
               <item name="codePumkin" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
             </path>
             <path>
               <item name="codePumkin" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="android" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="android" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="carrier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="android" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="carrier" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="android" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="carrier" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="elastos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="android" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="carrier" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="elastos" type="462c0819:PsiDirectoryNode" />
+              <item name="p2pNet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="android" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="carrier" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="elastos" type="462c0819:PsiDirectoryNode" />
+              <item name="p2pNet" type="462c0819:PsiDirectoryNode" />
+              <item name="CarrierExecutor" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
             </path>
           </expand>
           <select />
@@ -2318,30 +2593,137 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codePumkin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="carrier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codePumkin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="carrier" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codePumkin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="carrier" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
               <item name="elastos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codePumkin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="carrier" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="elastos" type="462c0819:PsiDirectoryNode" />
+              <item name="codepumpkin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codePumkin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="carrier" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="elastos" type="462c0819:PsiDirectoryNode" />
+              <item name="codepumpkin" type="462c0819:PsiDirectoryNode" />
+              <item name="Bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codePumkin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="carrier" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="elastos" type="462c0819:PsiDirectoryNode" />
+              <item name="codepumpkin" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codePumkin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="carrier" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="elastos" type="462c0819:PsiDirectoryNode" />
+              <item name="codepumpkin" type="462c0819:PsiDirectoryNode" />
+              <item name="layer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codePumkin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="carrier" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="elastos" type="462c0819:PsiDirectoryNode" />
+              <item name="codepumpkin" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="android.sdk.path" value="F:/SDK/Android" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="EJL4C17317015185" />
-    <property name="android.project.structure.last.selected" value="app" />
-    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.profiler.active" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="android.carrier.net.elastos" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\cocos\repository\codePumkin\app\src\main\assets" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="android.carrier.net.elastos.codepumpkin.layer" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/libs" />
+      <recent name="F:\cocos\repository\codePumkin\app\src\main\assets" />
+      <recent name="F:\cocos\repository\codePumkin\app\assets" />
+      <recent name="F:\cocos\repository\codePumkin\doc" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2380,7 +2762,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -2459,7 +2841,7 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -2482,11 +2864,26 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="VM_PARAMETERS" />
     </configuration>
-    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
     </configuration>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -2500,76 +2897,157 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2acd3e51-458f-433d-bb51-361bc6fe0d93" name="Default" comment="" />
-      <created>1525711042948</created>
+      <changelist id="03788c89-5047-4743-8aa7-6b5e069908ce" name="Default" comment="" />
+      <created>1525739723651</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1525711042948</updated>
+      <updated>1525739723651</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15753424" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3576538" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26448497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2865297" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35388127" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2865297" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31683806" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/util/SpriteUtil.java</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/util/SpriteUtil.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>(float)((this.getContentSize().width - logoSprite
+                        .getContentSize().width) / 2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/local.properties">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/common/NetOptions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="184">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/common/Synchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="207">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/common/ElastosException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="92">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -2579,63 +3057,670 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/MyCCLayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/common/ElastosException.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/sesrve/SceneHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="138">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/common/NetOptions.java">
+    <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/nodes/CCSprite.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="133">
+          <caret line="569" column="16" lean-forward="false" selection-start-line="569" selection-start-column="16" selection-end-line="569" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1525739665815" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1525739665815" expanded="false" signature="141:798" ph="..." />
+            <marker date="1525739665815" expanded="true" signature="2318:2613" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="2642:2653" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="2674:2680" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="2724:2893" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="2947:3141" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="3175:3289" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="3334:3674" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="3715:3859" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="3897:4038" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="4082:4156" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="4199:4271" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="4307:4318" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="4336:4342" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="4386:4397" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="4422:4428" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="4484:4495" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="4524:4530" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="4600:4651" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="4713:4724" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="4757:4763" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="4840:4902" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="4954:4965" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="4995:5001" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="5067:5119" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="5125:5143" ph="/**...*/" />
+            <marker date="1525739665815" expanded="false" signature="5191:5202" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="5229:5235" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="5296:5307" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="5339:5345" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="5421:5476" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="5519:5680" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="5735:5746" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="5771:5777" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="5837:5998" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="6046:6057" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="6080:6086" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="6139:6379" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="6442:6662" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="6701:7164" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="7187:7198" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="7210:7216" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="7268:7507" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="7513:7531" ph="/**...*/" />
+            <marker date="1525739665815" expanded="true" signature="7566:7919" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="7967:8281" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="8343:8449" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="8535:8598" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="8661:8723" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="8768:8779" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="8824:8830" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="8864:9706" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="9772:9918" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="9946:11142" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="11182:11193" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="11214:11220" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="11275:11647" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="11719:12011" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="12051:12574" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="12623:12774" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="12837:12993" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="13025:13874" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="13912:14036" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="14067:14078" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="14097:14103" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="14141:14265" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="14296:14307" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="14326:14332" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="14382:14704" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="14741:14752" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="14773:14779" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="14838:15068" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="15112:15202" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="15245:15479" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="15516:16005" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="16049:16060" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="16093:16099" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="16176:16311" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="16418:17896" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="17958:18228" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="18271:18282" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="18312:18318" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="18367:18725" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="18768:18845" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="18893:18971" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="19012:19089" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="19127:19201" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="19239:19313" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="19349:19421" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="19458:19537" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="19575:19649" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="19698:19781" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="19840:19986" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="20038:20305" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="20365:20714" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="20776:21037" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="21092:21500" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="21532:22222" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="22274:24657" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="24693:28169" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="28208:28219" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="28242:28248" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="28301:28312" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="28340:28346" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="28414:28590" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="28618:28752" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="28735:28746" ph="{}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/common/Synchronizer.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/title.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://F:/SDK/Android/sources/android-27/java/lang/CharSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        <state relative-caret-position="251">
+          <caret line="58" column="17" lean-forward="false" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/types/CGSize.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1525739665815" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1525739665815" expanded="false" signature="272:283" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="300:306" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="345:401" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="450:461" ph=" { " />
+            <marker date="1525739665815" expanded="true" signature="485:491" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="524:535" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="565:571" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="603:672" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="712:768" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="804:815" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="832:838" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="867:878" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="896:902" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="932:943" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="962:968" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="1030:1100" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="1130:1141" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="1192:1198" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/nodes/CCLabel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding>
+            <marker date="1525739665815" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1525739665815" expanded="false" signature="141:434" ph="..." />
+            <marker date="1525739665815" expanded="true" signature="805:891" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="977:1095" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1187:1305" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1383:1487" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1609:1786" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1832:2149" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="2180:2350" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="2420:3250" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="2514:2529" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="2568:2578" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="2619:3244" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="3289:3386" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="3369:3380" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/nodes/CCLabelAtlas.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="57" column="49" lean-forward="true" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+          <folding>
+            <marker date="1525739665815" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1525739665815" expanded="true" signature="141:472" ph="..." />
+            <marker date="1525739665815" expanded="true" signature="716:789" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="884:1110" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1148:2667" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="2719:3081" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="3113:3690" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="3719:3730" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="3785:3791" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="3821:3832" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="3862:3868" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="3907:3918" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="3930:3936" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="3990:3997" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/LauncherCCLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="method#init#0;class#LauncherCCLayer#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/actions/interval/CCMoveTo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/actions/interval/CCIntervalAction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/actions/instant/CCCallFuncN.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <marker date="1525739665815" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1525739665815" expanded="true" signature="247:319" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="388:460" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="521:532" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="547:553" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="581:732" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/actions/interval/CCMoveBy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <marker date="1525739665815" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1525739665815" expanded="false" signature="152:211" ph="..." />
+            <marker date="1525739665815" expanded="true" signature="317:368" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="445:496" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="574:632" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="679:747" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="775:786" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="833:839" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="879:1022" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="1053:1064" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="1127:1133" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/actions/instant/CCCallFunc.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <marker date="1525739665815" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1525739665815" expanded="false" signature="151:209" ph="..." />
+            <marker date="1525739665815" expanded="true" signature="466:537" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="617:688" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="749:1424" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1455:1544" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1584:1645" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1673:1811" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/common/GameCommon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/actions/interval/CCSequence.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <marker date="1525739665815" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1525739665815" expanded="false" signature="152:229" ph="..." />
+            <marker date="1525739665815" expanded="true" signature="496:1006" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1081:1204" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1235:1321" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1361:1490" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1515:1608" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1642:2640" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="2674:2766" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/types/CGRect.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-617">
+          <caret line="73" column="38" lean-forward="false" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="38" />
+          <folding>
+            <marker date="1525739665815" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1525739665815" expanded="false" signature="403:414" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="443:449" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="498:564" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="600:611" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="628:634" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="667:678" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="720:726" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="787:866" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="933:944" ph=" { " />
+            <marker date="1525739665815" expanded="true" signature="974:980" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="1021:1032" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="1068:1074" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="1131:1218" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1250:1323" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1381:1448" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1496:1692" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1723:1849" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="1911:2017" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="2089:2215" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="2284:2447" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="2506:2762" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="2850:3807" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="3851:3862" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="3903:3909" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="3953:3964" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="4006:4012" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="4057:4138" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="4183:4265" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="4309:4320" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="4342:4348" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="4392:4403" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="4425:4431" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="4476:4487" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="4511:4517" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="4563:4574" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="4599:4605" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="4659:4736" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="4854:7242" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="7272:7387" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="7370:7381" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/cocos2d-android.jar!/org/cocos2d/nodes/CCNode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="202" column="17" lean-forward="false" selection-start-line="202" selection-start-column="11" selection-end-line="202" selection-end-column="17" />
+          <folding>
+            <marker date="1525739665815" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1525739665815" expanded="false" signature="141:1189" ph="..." />
+            <marker date="1525739665815" expanded="false" signature="2327:2404" ph="compare(o1, o2) → {" />
+            <marker date="1525739665815" expanded="false" signature="2453:2464" ph="}" />
+            <marker date="1525739665815" expanded="true" signature="2564:2625" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="2657:2668" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="2690:2696" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="2737:2877" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="2907:2918" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="2938:2944" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="2982:3119" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="3149:3160" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="3180:3186" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="3224:3361" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="3397:3548" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="3578:3808" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="3844:3979" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="4008:4019" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="4038:4044" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="4080:4215" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="4244:4255" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="4274:4280" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="4326:4420" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="4479:4637" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="4682:4693" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="4728:4734" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="4779:4790" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="4835:4841" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="4892:5277" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="5314:5400" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="5439:5450" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="5475:5481" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="5526:5537" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="5571:5577" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="5628:6004" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="6042:6120" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="6160:6171" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="6196:6202" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="6239:6424" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="6458:6469" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="6525:6531" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="6568:6579" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="6601:6607" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="6649:6660" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="6691:6697" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="6745:6947" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="6981:7107" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="7140:7151" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="7169:7175" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="7217:7228" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="7246:7252" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="7285:7296" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="7317:7323" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="7368:7379" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="7403:7409" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="7440:7451" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="7471:7477" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="7519:7530" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="7552:7558" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="7583:7594" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="7611:7617" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="7650:7661" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="7677:7683" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="7714:7725" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="7746:7752" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="7789:7800" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="7818:7824" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="7852:7863" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="7883:7889" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="7925:7936" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="7953:7959" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="7998:8009" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="8031:8037" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="8070:8081" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="8102:8108" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="8150:8161" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="8182:8188" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="8220:8231" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="8254:8260" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="8293:8304" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="8324:8330" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="8355:9149" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="9208:9631" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="9681:9800" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="9843:9974" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="10036:10143" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="10173:10184" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="10222:10228" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="10289:10450" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="10511:10772" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="10825:11282" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="11325:11673" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="11737:11956" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="12013:12157" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="12189:12196" ph="{}" />
+            <marker date="1525739665815" expanded="true" signature="12229:13368" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="13405:14396" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="14442:14585" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="14634:14809" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="14843:14854" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="14909:14915" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="14961:15030" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="15068:15184" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="15225:15345" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="15387:15471" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="15505:15516" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="15539:15545" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="15592:15687" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="15723:15734" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="15787:15793" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="15836:15847" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="15877:15883" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="15943:16188" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="16239:16250" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="16280:16286" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="16354:16599" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="16645:16764" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="16818:16937" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="16980:17055" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="17101:17214" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="17259:17370" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="17426:18964" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="19019:19233" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="19288:19534" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="19597:19815" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="19869:19941" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="20004:20095" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="20153:20506" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="20556:20567" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="20608:20614" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="20675:20730" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="20798:21094" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="21153:21293" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="21353:21445" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="21514:21810" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="21870:22005" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="22066:22262" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="22326:22915" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="22983:23777" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="23851:24237" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="24303:24894" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="24955:25111" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="25146:25226" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="25277:25779" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="25807:26101" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="26132:26220" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="26248:26569" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="26616:26882" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="26909:27229" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="27289:27300" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="27309:27315" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="27413:27594" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="27697:27859" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="27991:28189" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="28251:28610" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="28659:28670" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="28695:28701" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="28752:28763" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="28788:28794" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="28915:28993" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="29123:31119" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="31164:31175" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="31198:31204" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="31262:31273" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="31310:31316" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="31374:31385" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="31422:31428" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="31483:31494" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="31523:31529" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="31593:31646" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="31702:31713" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="31746:31752" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="31810:31821" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="31854:31860" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="31906:31917" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="31939:31945" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="31992:32003" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="32025:32031" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="32094:32162" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="32224:32305" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="32369:32450" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="32498:32509" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="32529:32535" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="32581:32592" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="32640:32646" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="32707:32718" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="32751:32757" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="32808:32819" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="32858:32864" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="32913:32996" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="33044:33111" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="33177:33228" ph="{...}" />
+            <marker date="1525739665815" expanded="false" signature="33283:33294" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="33325:33331" ph=" }" />
+            <marker date="1525739665815" expanded="false" signature="33361:33372" ph=" { " />
+            <marker date="1525739665815" expanded="false" signature="33409:33415" ph=" }" />
+            <marker date="1525739665815" expanded="true" signature="33458:33553" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="33621:33790" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="33835:33999" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="34057:34296" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="34336:34456" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="34501:34665" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="34728:34853" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="34893:35013" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="35070:35136" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="35185:35253" ph="{...}" />
+            <marker date="1525739665815" expanded="true" signature="35290:35351" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/MyCCLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="308">
+          <caret line="76" column="93" lean-forward="false" selection-start-line="76" selection-start-column="93" selection-end-line="76" selection-end-column="93" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/p2pNet/CarrierExecutor.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/util/SpriteUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="250">
+          <caret line="38" column="7" lean-forward="false" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/GameUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="37" column="33" lean-forward="false" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+          <folding>
+            <element signature="method#initBg#0;class#GameCCLayer#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 24 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

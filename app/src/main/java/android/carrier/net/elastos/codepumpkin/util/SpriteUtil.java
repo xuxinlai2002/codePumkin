@@ -42,7 +42,7 @@ public class SpriteUtil {
        // new CCLabel(text,"",1);
 //        CCLabelAtlas  atlas = CCLabelAtlas.label();
         CCLabel label = CCLabel.labelWithString("", "consola.ttf", GameCommon.DEFAULT_FONT_SIZE);
-        CCTextureNode l = new CCTextureNode();
+       // CCTextureNode l = new CCTextureNode();
 
         //CCLabel.labelWithString()
        // CCLabelAtlas label = CCLabelAtlas;

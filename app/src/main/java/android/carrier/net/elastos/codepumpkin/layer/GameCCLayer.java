@@ -94,7 +94,7 @@ public class GameCCLayer extends CCLayer {
             actionHandler(new Action(currentUser,GameCommon.ACTION_MOVE,GameCommon.DEFAULT_SIZE));
             return false;
         }
-
+//
 //        // -60
 //        if(SpriteUtil.isContainsPointByView(spriteStep1,p)){
 //            actionHandler(new Action(currentUser,GameCommon.ACTION_MOVE,~GameCommon.DEFAULT_SIZE));
@@ -288,7 +288,7 @@ public class GameCCLayer extends CCLayer {
 //        this.spriteStep2 = SpriteUtil.createStepText("60",
 //                SpriteUtil.cratePoint(this.getContentSize().getWidth()*0.6+30,spriteStep.getContentSize().getHeight()+40)
 //                ,60);
-//
+
 //        this.addChild(this.spriteStep1);
 //        this.addChild(this.spriteStep2);
     }
