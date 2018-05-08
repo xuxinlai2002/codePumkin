@@ -1,4 +1,4 @@
-package android.carrier.net.elastos.codepumpkin;
+package android.carrier.net.elastos.codepumpkin.layer;
 
 import org.cocos2d.layers.CCLayer;
 import org.cocos2d.nodes.CCSprite;

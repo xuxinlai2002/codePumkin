@@ -1,7 +1,18 @@
 package android.carrier.net.elastos.codepumpkin;
 
-import android.support.v7.app.AppCompatActivity;
+import android.carrier.net.elastos.codepumpkin.common.GameCommon;
+import android.carrier.net.elastos.codepumpkin.layer.GameCCLayer;
+import android.carrier.net.elastos.codepumpkin.layer.LauncherCCLayer;
+import android.carrier.net.elastos.codepumpkin.util.SpriteUtil;
+import android.content.Context;
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
+import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
+import android.view.Window;
+import android.view.WindowManager;
 
 import org.cocos2d.layers.CCScene;
 import org.cocos2d.nodes.CCDirector;
@@ -9,28 +20,43 @@ import org.cocos2d.opengl.CCGLSurfaceView;
 
 public class MainActivity extends AppCompatActivity {
 
+    private CCScene launcherScene;
+    private CCScene gameScene;
+    private SceneHandler sceneHandler;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        //setContentView(R.layout.activity_main);
+
+        initLandscape();
+        getDisplayInfo();
+        initCocos();
 
 
-        //for carrier
+        sceneHandler = new SceneHandler();
+
+        launcherScene = CCScene.node();  //启动页面场景
+        gameScene = CCScene.node();
+        launcherScene.addChild(new LauncherCCLayer()); //将MyCCLayer层加到场景里
+        gameScene.addChild(new GameCCLayer()); //将MyCCLayer层加到场景里
+        CCDirector.sharedDirector().runWithScene(gameScene);// 运行场景
 
 
+        //sceneHandler.sendMessageAtTime(new Message(),SystemClock.uptimeMillis()+1000);
+
+    }
+
+    private void getDisplayInfo() {
+        WindowManager wm = (WindowManager) this
+                .getSystemService(Context.WINDOW_SERVICE);
+        GameCommon.deviceWidth = wm.getDefaultDisplay().getWidth();
+        GameCommon.deviceHeight = wm.getDefaultDisplay().getHeight();
+        Log.i("device",GameCommon.deviceWidth+","+GameCommon.deviceHeight);
+    }
 
 
-
-
-
-
-
-
-
-
-
-
-
+    private void initCocos() {
         CCGLSurfaceView ccglSurfaceView = new CCGLSurfaceView(this);//cocos2d提供的SurfaceView
 
         setContentView(ccglSurfaceView);//设置Activity显示的view
@@ -48,12 +74,17 @@ public class MainActivity extends AppCompatActivity {
         CCDirector.sharedDirector().setDeviceOrientation(
                 CCDirector.kCCDeviceOrientationPortrait);// 设置为横屏显示
 
-        CCDirector.sharedDirector().setScreenSize(800, 480);
+        CCDirector.sharedDirector().setScreenSize(GameCommon.gameWidth, GameCommon.gameHeight);
         // 设置横屏后的分辨率,其实是将屏幕横竖分成800和480个小块
+    }
 
-        CCScene ccScene = CCScene.node();  //创建一个场景，用来显示游戏界面
-        ccScene.addChild(new MyCCLayer()); //将MyCCLayer层加到场景里
-        CCDirector.sharedDirector().runWithScene(ccScene);// 运行场景
+    private void initLandscape() {
+        /* 隐藏标题栏 */
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
+        /* 隐藏状态栏 */
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        /* 设定屏幕显示为横屏 */
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
     }
 
 
@@ -78,4 +109,19 @@ public class MainActivity extends AppCompatActivity {
         CCDirector.sharedDirector().end();
         // 结束，游戏退出时调用
     }
+
+
+    public class SceneHandler extends Handler {
+
+        public SceneHandler() {
+        }
+
+        @Override
+        public void handleMessage(Message msg) {
+            super.handleMessage(msg);
+            CCDirector.sharedDirector().replaceScene(gameScene);
+
+        }
+    }
+
 }
