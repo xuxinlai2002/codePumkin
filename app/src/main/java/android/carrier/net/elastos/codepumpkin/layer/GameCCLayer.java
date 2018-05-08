@@ -21,6 +21,7 @@ import org.cocos2d.layers.CCLayer;
 import org.cocos2d.nodes.CCAnimation;
 import org.cocos2d.nodes.CCDirector;
 import org.cocos2d.nodes.CCLabel;
+import org.cocos2d.nodes.CCLabelAtlas;
 import org.cocos2d.nodes.CCSprite;
 import org.cocos2d.types.CGPoint;
 import org.cocos2d.types.CGRect;
@@ -38,8 +39,8 @@ public class GameCCLayer extends CCLayer {
     private CCSprite spriteRight;
     private CCSprite spriteStepBox;
 
-    private CCSprite spriteStep1;
-    private CCSprite spriteStep2;
+    private CCLabelAtlas spriteStep1;
+    private CCLabelAtlas spriteStep2;
 
 
     private List<CCSprite> bushList = new ArrayList<CCSprite>();
@@ -282,15 +283,15 @@ public class GameCCLayer extends CCLayer {
         this.addChild(spriteLeft, 10);
         this.addChild(spriteRight, 10);
 
-//        this.spriteStep1 = SpriteUtil.createStepText("-60",
-//                SpriteUtil.cratePoint(this.getContentSize().getWidth()*0.6-30,spriteStep.getContentSize().getHeight()+40)
-//                ,-60);
-//        this.spriteStep2 = SpriteUtil.createStepText("60",
-//                SpriteUtil.cratePoint(this.getContentSize().getWidth()*0.6+30,spriteStep.getContentSize().getHeight()+40)
-//                ,60);
+        this.spriteStep1 = SpriteUtil.createStepText("-60",
+                SpriteUtil.cratePoint(this.getContentSize().getWidth()*0.6-30,spriteStep.getContentSize().getHeight()+40)
+                ,-60);
+        this.spriteStep2 = SpriteUtil.createStepText("60",
+                SpriteUtil.cratePoint(this.getContentSize().getWidth()*0.6+30,spriteStep.getContentSize().getHeight()+40)
+                ,60);
 
-//        this.addChild(this.spriteStep1);
-//        this.addChild(this.spriteStep2);
+        this.addChild(this.spriteStep1);
+        this.addChild(this.spriteStep2);
     }
 
     /**
@@ -352,7 +353,7 @@ public class GameCCLayer extends CCLayer {
                         t = b.origin.x - p.x + 10;
                     }
                 }
-                stepPromptList.add(SpriteUtil.createStepText((t > 0 ? "+" + t : "" + t), createStepPromptPosition(), t));
+              //  stepPromptList.add(SpriteUtil.createStepText((t > 0 ? "+" + t : "" + t), createStepPromptPosition(), t));
                 this.addChild(stepPromptList.get(stepPromptList.size() - 1));
             }
         }

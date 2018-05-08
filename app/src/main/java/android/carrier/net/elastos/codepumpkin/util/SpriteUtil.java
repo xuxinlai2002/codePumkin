@@ -37,17 +37,20 @@ public class SpriteUtil {
      * @param value
      * @return
      */
-    public static CCLabel createStepText(String text,CGPoint point,float value){
+    public static CCLabelAtlas createStepText(String text,CGPoint point,float value){
        // CCLabel label = new CCLabel("","font/consola.ttf", GameCommon.DEFAULT_FONT_SIZE);
        // new CCLabel(text,"",1);
 //        CCLabelAtlas  atlas = CCLabelAtlas.label();
-        CCLabel label = CCLabel.labelWithString("", "consola.ttf", GameCommon.DEFAULT_FONT_SIZE);
+        //CCLabelAtlas atlas = CCLabelAtlas.label(1,"consola.ttf",GameCommon.DEFAULT_FONT_SIZE);
+        //CCLabelAtlas *label = [CCLabelAtlas labelWithString:@"12" charMapFile:@"fps_images.png" itemWidth:12 itemHeight:18 startCharMap:'.'];
+        CCLabelAtlas label = CCLabelAtlas.label("1", "number.png",12, 32, (char)46);
+       // CCLabel label = CCLabel.labelWithString("", "consola.ttf", GameCommon.DEFAULT_FONT_SIZE);
        // CCTextureNode l = new CCTextureNode();
 
         //CCLabel.labelWithString()
        // CCLabelAtlas label = CCLabelAtlas;
        // CCLabelAtlas
-        label.setColor(ccColor3B.ccBLACK);
+       // label.setColor(ccColor3B.ccBLACK);
        // label.set
         label.setPosition(point);
         label.setUserData(value);
