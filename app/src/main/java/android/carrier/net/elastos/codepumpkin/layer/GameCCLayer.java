@@ -173,7 +173,7 @@ public class GameCCLayer extends CCLayer {
         Log.i("loop", "-----------------------------------" + actionIndex);
         if (actionIndex < actionList.size()) {
             Action action = actionList.get(actionIndex);
-            GameUser user = gameUserList.get(action.getUserId());
+            GameUser user = gameUserList.get(this.getUserIndex(action.getUserId()));
 
             loopWait = true;        // 开启等待
 
@@ -201,6 +201,16 @@ public class GameCCLayer extends CCLayer {
     }
 
 
+
+    private int getUserIndex(String userId){
+
+        int nRet = 0;
+        if(!userId.equals(carrierExecutorInst.getUserID())){
+            nRet = 1;
+        }
+
+        return nRet;
+    }
     /**
      * 回调
      */
@@ -220,24 +230,31 @@ public class GameCCLayer extends CCLayer {
 
 
         //   schedule();
+        int nUserSize = gameUserList.size();
         //遍历吃南瓜
         for (int j = 0; j < pumpkinList.size(); j++) {
-            if (SpriteUtil.isContainsRect(gameUserList.get(currentUser).getSprite(), pumpkinList.get(j))) {
-                pumpkinList.get(j).setUserData(0);      //吃掉
-                pumpkinList.get(j).setOpacity(0);
-                gameUserList.get(currentUser).setPumpkinCount(gameUserList.get(currentUser).getPumpkinCount() + 1);
-                if (gameUserList.get(currentUser).getPumpkinCount() > GameCommon.PUMPKIN_COUNT / 2) {
-                    ToastUtil.showLong(context, "游戏胜利");
-                } else {
-                    ToastUtil.showLong(context, "吃掉南瓜");
+
+            for(int i = 0 ;i < nUserSize ;i ++){
+                if (SpriteUtil.isContainsRect(gameUserList.get(i).getSprite(), pumpkinList.get(j))) {
+                    pumpkinList.get(j).setUserData(0);      //吃掉
+                    pumpkinList.get(j).setOpacity(0);
+                    gameUserList.get(i).setPumpkinCount(gameUserList.get(i).getPumpkinCount() + 1);
+                    if (gameUserList.get(i).getPumpkinCount() > GameCommon.PUMPKIN_COUNT / 2) {
+                        ToastUtil.showLong(context, "游戏胜利");
+                    } else {
+                        ToastUtil.showLong(context, "吃掉南瓜");
+                    }
                 }
             }
         }
         //遍历障碍物
         for (int j = 0; j < bushList.size(); j++) {
-            if (SpriteUtil.isContainsRect(gameUserList.get(currentUser).getSprite(), bushList.get(j))) {
-                ToastUtil.showLong(context, "游戏结束");
 
+            for(int i = 0 ;i < nUserSize ;i ++) {
+                if (SpriteUtil.isContainsRect(gameUserList.get(i).getSprite(), bushList.get(j))) {
+                    ToastUtil.showLong(context, "游戏结束");
+
+                }
             }
         }
 
@@ -391,7 +408,7 @@ public class GameCCLayer extends CCLayer {
 
             user.setId(carrierExecutorInst.getUserID());
             user.setDirection(1);
-            user.setSprite(SpriteUtil.createGameUser());
+            user.setSprite(SpriteUtil.createGameUser(0));
             user.setStartPosition(user.getSprite().getPosition());
             gameUserList.add(user);
             this.addChild(user.getSprite(), 30);
@@ -399,14 +416,10 @@ public class GameCCLayer extends CCLayer {
 
             user.setId(carrierExecutorInst.getFriendID());
             user.setDirection(1);
-            user.setSprite(SpriteUtil.createGameUser());
+            user.setSprite(SpriteUtil.createGameUser(1));
             user.setStartPosition(user.getSprite().getPosition());
             gameUserList.add(user);
             this.addChild(user.getSprite(), 30);
-
-
-
-
 
 
             // 添加南瓜和障碍物
@@ -436,13 +449,13 @@ public class GameCCLayer extends CCLayer {
         }
         stepPromptList.clear();
 
-        CGPoint p = gameUserList.get(currentUser).getSprite().getPosition();
+        CGPoint p = gameUserList.get(0).getSprite().getPosition();
 
         for (int i = 0; i < pumpkinList.size(); i++) {
             if ((int) (pumpkinList.get(i).getUserData()) == 1) {
                 CGRect b = pumpkinList.get(i).getBoundingBox();
                 int t = 0;
-                if (gameUserList.get(currentUser).getDirection() % 2 != 0) {  //x轴
+                if (gameUserList.get(0).getDirection() % 2 != 0) {  //x轴
                     if (p.x > b.origin.x && p.x < b.origin.x + b.size.width) {   // x轴重合
 
                         t = (int) (b.origin.y - p.y + 10);

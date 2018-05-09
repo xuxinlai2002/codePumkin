@@ -51,9 +51,18 @@ public class SpriteUtil {
      * @param
      * @return
      */
-    public static CCSprite createGameUser() {
-        CCSprite s = new CCSprite("dragon-head.png");
-        s.setPosition(cratePoint(boxSize.getWidth() / 2, s.getContentSize().getHeight()));
+    public static CCSprite createGameUser(int nType) {
+        String picPath = "";
+        int nS;
+        if(nType == 0){
+            nS = -60;
+            picPath = "dragon-head.png";
+        }else{
+            nS = 60;
+            picPath = "dragon-head2.png";
+        }
+        CCSprite s = new CCSprite(picPath);
+        s.setPosition(cratePoint(boxSize.getWidth() / 2 + nS, s.getContentSize().getHeight()));
         //s.setAnchorPoint(CGPoint.getZero());
         s.setScale(1.5);
         return s;
