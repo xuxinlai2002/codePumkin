@@ -33,9 +33,10 @@ public class LauncherActivity extends AppCompatActivity implements View.OnClickL
     private Button btnAddFriend;
 
     //TODO
-    private String TAG="xxl ";
+    private String TAG="xxl LauncherActivity";
     private String AUTO = "auto-accepted";
-    SysApp application;
+    private SysApp application;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -59,8 +60,6 @@ public class LauncherActivity extends AppCompatActivity implements View.OnClickL
 
     @Override
     public void onClick(View v) {
-
-        SysApp application = (SysApp)this.getApplicationContext();
 
         try {
 
@@ -111,7 +110,8 @@ public class LauncherActivity extends AppCompatActivity implements View.OnClickL
     }
 
     private void testGson(){
-        Action action = new Action(1,1,1);
+
+        Action action = new Action("1",1,1);
         Gson gson = new Gson();
         String json = gson.toJson(action);
         Log.i("gson",json);
@@ -161,8 +161,6 @@ public class LauncherActivity extends AppCompatActivity implements View.OnClickL
         return path;
     }
 
-
-
     static class CarrierHandler extends AbstractCarrierHandler {
 
         Synchronizer synch = new Synchronizer();
@@ -200,6 +198,8 @@ public class LauncherActivity extends AppCompatActivity implements View.OnClickL
         public void onFriendMessage(Carrier carrier,String fromId, String message) {
 
             Log.i(CALLBACK,"address:" + fromId + "connection changed to: " + message);
+
+
         }
     }
 

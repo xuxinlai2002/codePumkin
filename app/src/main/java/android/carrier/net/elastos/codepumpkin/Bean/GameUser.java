@@ -8,7 +8,7 @@ import java.util.List;
 /**用户玩家*/
 public class GameUser {
     /**用户id*/
-    private int id;
+    private String id;
     /**行动事件*/
     private List<Action> actionList;
     /**开始的位置*/
@@ -23,7 +23,7 @@ public class GameUser {
     public GameUser() {
     }
 
-    public GameUser(int id, List<Action> actionList, CGPoint startPosition, int direction) {
+    public GameUser(String id, List<Action> actionList, CGPoint startPosition, int direction) {
         this.id = id;
         this.actionList = actionList;
         this.startPosition = startPosition;
@@ -38,11 +38,11 @@ public class GameUser {
         this.sprite = sprite;
     }
 
-    public int getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 
@@ -93,14 +93,14 @@ public class GameUser {
         return startPosition != null ? startPosition.equals(gameUser.startPosition) : gameUser.startPosition == null;
     }
 
-    @Override
-    public int hashCode() {
-        int result = id;
-        result = 31 * result + (actionList != null ? actionList.hashCode() : 0);
-        result = 31 * result + (startPosition != null ? startPosition.hashCode() : 0);
-        result = 31 * result + direction;
-        return result;
-    }
+//    @Override
+//    public int hashCode() {
+//        int result = id;
+//        result = 31 * result + (actionList != null ? actionList.hashCode() : 0);
+//        result = 31 * result + (startPosition != null ? startPosition.hashCode() : 0);
+//        result = 31 * result + direction;
+//        return result;
+//    }
 
     @Override
     public String toString() {

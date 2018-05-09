@@ -12,16 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27252ede-4853-4722-b69a-4bdcd5291a38" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/SysApp.java" afterPath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/SysApp.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/Action.java" afterPath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/Action.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/GameUser.java" afterPath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/GameUser.java" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/LauncherActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/LauncherActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java" afterPath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/p2pNet/CarrierExecutor.java" afterPath="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/p2pNet/CarrierExecutor.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,26 +40,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GameCCLayer.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GameCCLayer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="186" column="37" lean-forward="false" selection-start-line="186" selection-start-column="37" selection-end-line="186" selection-end-column="37" />
-              <folding />
+            <state relative-caret-position="398">
+              <caret line="399" column="56" lean-forward="false" selection-start-line="399" selection-start-column="56" selection-end-line="399" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1870#1880#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-27/java/util/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="245">
+              <caret line="565" column="6" lean-forward="false" selection-start-line="565" selection-start-column="6" selection-end-line="565" selection-end-column="6" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="android-manifest">
-            <state />
           </provider>
         </entry>
       </file>
@@ -77,29 +73,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LauncherActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LauncherActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/LauncherActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+            <state relative-caret-position="375">
+              <caret line="184" column="35" lean-forward="false" selection-start-line="184" selection-start-column="20" selection-end-line="184" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#5107#5108#0" expanded="true" />
-                <element signature="e#5145#5146#0" expanded="true" />
+                <element signature="e#5065#5066#0" expanded="true" />
+                <element signature="e#5103#5104#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cocos  Pumkin 调用接口文档.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/cocos  Pumkin 调用接口文档.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="315">
-                <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -107,9 +90,16 @@
       <file leaf-file-name="Action.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/Action.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="382">
+              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="46" selection-end-column="5" />
+              <folding>
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#736#737#0" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,8 +107,8 @@
       <file leaf-file-name="SysApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/SysApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="450">
+              <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#288#289#0" expanded="true" />
@@ -138,11 +128,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LauncherCCLayer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/LauncherCCLayer.java">
+      <file leaf-file-name="MyCCLayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/MyCCLayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-60">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="75">
+              <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -151,8 +151,20 @@
       <file leaf-file-name="CarrierExecutor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/p2pNet/CarrierExecutor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="418">
+              <caret line="79" column="34" lean-forward="false" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Synchronizer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/common/Synchronizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -172,6 +184,18 @@
       <find>actionHandler</find>
       <find>actionLoop</find>
       <find>userID</find>
+      <find>application</find>
+      <find>actionList</find>
+      <find>isRePlay</find>
+      <find>getUserId</find>
+      <find>action</find>
+      <find>GameUser</find>
+      <find>hashCode</find>
+      <find>currentUser</find>
+      <find>user</find>
+      <find>Carrier</find>
+      <find>gameUserList</find>
+      <find>init</find>
     </findStrings>
     <replaceStrings>
       <replace>friendID</replace>
@@ -2212,13 +2236,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/p2pNet/CarrierHandler.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/App.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/SysApp.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/p2pNet/CarrierExecutor.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/Action.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/GameUser.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/LauncherActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java" />
       </list>
     </option>
   </component>
@@ -2363,7 +2390,38 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="elastos" type="462c0819:PsiDirectoryNode" />
               <item name="codepumpkin" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codePumkin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="elastos" type="462c0819:PsiDirectoryNode" />
+              <item name="codepumpkin" type="462c0819:PsiDirectoryNode" />
               <item name="layer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codePumkin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="elastos" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codePumkin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codePumkin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="elastos" type="462c0819:PsiDirectoryNode" />
+              <item name="p2pNet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codePumkin" type="b2602c69:ProjectViewProjectNode" />
@@ -2574,7 +2632,7 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2274678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25894135" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2599,26 +2657,9 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/MainActivity.java</url>
-          <line>32</line>
-          <properties />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/MainActivity.java</url>
           <line>52</line>
           <properties />
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/MainActivity.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/MainActivity.java</url>
-          <line>38</line>
-          <properties />
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="10" />
@@ -2630,7 +2671,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2400">
           <caret line="186" column="37" lean-forward="false" selection-start-line="186" selection-start-column="37" selection-end-line="186" selection-end-column="37" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1870#1880#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2654,7 +2698,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2664,8 +2715,8 @@
           <caret line="77" column="72" lean-forward="false" selection-start-line="77" selection-start-column="72" selection-end-line="77" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5107#5108#0" expanded="true" />
-            <element signature="e#5145#5146#0" expanded="true" />
+            <element signature="e#5065#5066#0" expanded="true" />
+            <element signature="e#5103#5104#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2715,7 +2766,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="12" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2731,7 +2784,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2400">
           <caret line="186" column="37" lean-forward="false" selection-start-line="186" selection-start-column="37" selection-end-line="186" selection-end-column="37" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1870#1880#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2749,8 +2805,8 @@
           <caret line="77" column="72" lean-forward="false" selection-start-line="77" selection-start-column="72" selection-end-line="77" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5107#5108#0" expanded="true" />
-            <element signature="e#5145#5146#0" expanded="true" />
+            <element signature="e#5065#5066#0" expanded="true" />
+            <element signature="e#5103#5104#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2759,7 +2815,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2805,7 +2868,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1380">
           <caret line="119" column="30" lean-forward="false" selection-start-line="119" selection-start-column="30" selection-end-line="119" selection-end-column="30" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1870#1880#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2832,7 +2898,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2864,7 +2937,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2874,17 +2949,9 @@
           <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5107#5108#0" expanded="true" />
-            <element signature="e#5145#5146#0" expanded="true" />
+            <element signature="e#5065#5066#0" expanded="true" />
+            <element signature="e#5103#5104#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/MyCCLayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2892,14 +2959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="164" column="45" lean-forward="false" selection-start-line="164" selection-start-column="45" selection-end-line="164" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/Action.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2915,14 +2974,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="186" column="37" lean-forward="false" selection-start-line="186" selection-start-column="37" selection-end-line="186" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doc/cocos  Pumkin 调用接口文档.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -2934,42 +2985,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/p2pNet/CarrierExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="58" column="17" lean-forward="false" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/LauncherCCLayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
+        <state relative-caret-position="105">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/GameUser.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/Action.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="382">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-27/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="565" column="6" lean-forward="false" selection-start-line="565" selection-start-column="6" selection-end-line="565" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/common/Synchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/SysApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="450">
+          <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#288#289#0" expanded="true" />
@@ -2988,14 +3046,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/LauncherActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        <state relative-caret-position="200">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/MyCCLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/p2pNet/CarrierExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="79" column="34" lean-forward="false" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5107#5108#0" expanded="true" />
-            <element signature="e#5145#5146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/Bean/GameUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/LauncherActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="184" column="35" lean-forward="false" selection-start-line="184" selection-start-column="20" selection-end-line="184" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5065#5066#0" expanded="true" />
+            <element signature="e#5103#5104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/codepumpkin/layer/GameCCLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="399" column="56" lean-forward="false" selection-start-line="399" selection-start-column="56" selection-end-line="399" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1870#1880#0" expanded="true" />
           </folding>
         </state>
       </provider>

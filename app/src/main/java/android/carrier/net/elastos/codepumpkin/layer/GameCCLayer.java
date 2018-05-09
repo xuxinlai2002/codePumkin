@@ -2,10 +2,12 @@ package android.carrier.net.elastos.codepumpkin.layer;
 
 import android.carrier.net.elastos.codepumpkin.Bean.Action;
 import android.carrier.net.elastos.codepumpkin.Bean.GameUser;
+import android.carrier.net.elastos.codepumpkin.Bean.SysApp;
 import android.carrier.net.elastos.codepumpkin.MainActivity;
 import android.carrier.net.elastos.codepumpkin.common.GameCommon;
 import android.carrier.net.elastos.codepumpkin.util.SpriteUtil;
 import android.carrier.net.elastos.codepumpkin.util.ToastUtil;
+import android.carrier.net.elastos.p2pNet.CarrierExecutor;
 import android.content.Context;
 import android.util.Log;
 import android.view.MotionEvent;
@@ -24,9 +26,12 @@ import org.cocos2d.nodes.CCSprite;
 import org.cocos2d.types.CGPoint;
 import org.cocos2d.types.CGRect;
 import org.cocos2d.types.CGSize;
+import org.elastos.carrier.Carrier;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import android.app.Application;
 
 public class GameCCLayer extends CCLayer {
 
@@ -51,7 +56,10 @@ public class GameCCLayer extends CCLayer {
 
     private List<Action> actionList = new ArrayList<>();
     private int actionIndex = 0;
-    private int currentUser = 0;
+    private String currentUser = "";
+
+
+    private CarrierExecutor carrierExecutorInst = null;
 
     /**
      * 現在是否有任務正在進行
@@ -74,7 +82,12 @@ public class GameCCLayer extends CCLayer {
         initBg();
         initCtrlView();
         initView();
+
+        carrierExecutorInst = new CarrierExecutor(this.context);
+        currentUser =carrierExecutorInst.getUserID();
+        //add globel info
         //schedule("actionLoop", 0.1f);
+        //this.context
         // scheduleUpdate();
     }
 
@@ -176,7 +189,15 @@ public class GameCCLayer extends CCLayer {
                     ));
                     break;
             }
+
+
+            if(!isRePlay && !action.getUserId().equals(carrierExecutorInst.getFriendID())){
+                carrierExecutorInst.sendMessage(action);
+            }
+
         }
+
+
     }
 
 
@@ -189,6 +210,7 @@ public class GameCCLayer extends CCLayer {
         updateView();
         loopWait = false; //关闭等待
         actionLoop();
+
     }
 
     /**
@@ -350,7 +372,7 @@ public class GameCCLayer extends CCLayer {
      * 初始化其他视图控件
      */
     private void initView() {
-        currentUser = 0;
+        currentUser = "";
 
         if (isRePlay) {
             for (int i = 0; i < gameUserList.size(); i++) {
@@ -366,11 +388,25 @@ public class GameCCLayer extends CCLayer {
         } else {
             //添加玩家
             GameUser user = new GameUser();
+
+            user.setId(carrierExecutorInst.getUserID());
             user.setDirection(1);
             user.setSprite(SpriteUtil.createGameUser());
             user.setStartPosition(user.getSprite().getPosition());
             gameUserList.add(user);
             this.addChild(user.getSprite(), 30);
+
+
+            user.setId(carrierExecutorInst.getFriendID());
+            user.setDirection(1);
+            user.setSprite(SpriteUtil.createGameUser());
+            user.setStartPosition(user.getSprite().getPosition());
+            gameUserList.add(user);
+            this.addChild(user.getSprite(), 30);
+
+
+
+
 
 
             // 添加南瓜和障碍物

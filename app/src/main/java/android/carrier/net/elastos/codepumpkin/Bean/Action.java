@@ -19,7 +19,9 @@ public class Action {
     private float value;
 
     /**用户id*/
-    private int userId;
+    private String userId;
+
+
 
     public Action() {
     }
@@ -30,17 +32,17 @@ public class Action {
         this.value = value;
     }
 
-    public Action(int userId,int type, float value) {
+    public Action(String userId,int type, float value) {
         this.userId = userId;
         this.type = type;
         this.value = value;
     }
 
-    public int getUserId() {
+    public String getUserId() {
         return userId;
     }
 
-    public void setUserId(int userId) {
+    public void setUserId(String userId) {
         this.userId = userId;
     }
 
