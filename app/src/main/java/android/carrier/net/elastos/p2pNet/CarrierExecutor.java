@@ -8,7 +8,10 @@ import android.util.Log;
 import com.google.gson.Gson;
 
 import org.elastos.carrier.Carrier;
+import org.elastos.carrier.FriendInfo;
 import org.elastos.carrier.exceptions.ElastosException;
+
+import java.util.List;
 
 public class CarrierExecutor {
 
@@ -21,10 +24,24 @@ public class CarrierExecutor {
         init();
     }
 
+    public SysApp getApplication() {
+        return application;
+    }
 
     private void init() {
 
         application = (SysApp)this.context.getApplicationContext();
+
+        try {
+            List<FriendInfo> friendInfoList = application.getCarrier().getFriends();
+            if(friendInfoList.size()>0){
+                application.setFriendID(friendInfoList.get(0).getUserId());
+               // application.getCarrier().getFriend("").
+               // application.setFriendAddr(friendInfoList.get(0).getUserId());
+            }
+        } catch (ElastosException e) {
+            e.printStackTrace();
+        }
     }
 
     public String getUserID() {
@@ -67,7 +84,7 @@ public class CarrierExecutor {
 
             Carrier carrierInst = application.getCarrier();
             Log.i(TAG,"start send message");
-            carrierInst.sendFriendMessage(application.getFriendAddr(), strMessaage);
+            carrierInst.sendFriendMessage(application.getFriendID(), strMessaage);
             Log.i(TAG,"end send message");
 
         }catch (ElastosException e) {

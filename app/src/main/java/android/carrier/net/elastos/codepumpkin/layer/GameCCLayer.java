@@ -79,12 +79,15 @@ public class GameCCLayer extends CCLayer {
     private void init() {
         isTouchEnabled_ = true;
         SpriteUtil.boxSize = this.getContentSize();
+        carrierExecutorInst = new CarrierExecutor(this.context);
+        currentUser =carrierExecutorInst.getUserID();
+
+
         initBg();
         initCtrlView();
         initView();
 
-        carrierExecutorInst = new CarrierExecutor(this.context);
-        currentUser =carrierExecutorInst.getUserID();
+
         //add globel info
         //schedule("actionLoop", 0.1f);
         //this.context

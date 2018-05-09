@@ -2,6 +2,7 @@ package android.carrier.net.elastos.codepumpkin;
 
 import android.carrier.net.elastos.codepumpkin.Bean.Action;
 import android.carrier.net.elastos.codepumpkin.Bean.SysApp;
+import android.carrier.net.elastos.codepumpkin.common.GameCommon;
 import android.carrier.net.elastos.common.NetOptions;
 import android.carrier.net.elastos.common.Synchronizer;
 import android.content.Context;
@@ -20,12 +21,18 @@ import com.google.gson.Gson;
 import org.elastos.carrier.AbstractCarrierHandler;
 import org.elastos.carrier.Carrier;
 import org.elastos.carrier.ConnectionStatus;
+import org.elastos.carrier.FriendInfo;
 import org.elastos.carrier.UserInfo;
 import org.elastos.carrier.exceptions.ElastosException;
 
 import java.io.File;
+import java.util.List;
 
 public class LauncherActivity extends AppCompatActivity implements View.OnClickListener{
+
+    private String friendUserId = "CicPM5B3Hfr4GdqqDy3zYkqR59gE1G9WJYt2Bygy9iZd";
+    private String friendUserAddress = " Skk3tug8K2zgqrdg9LebZLUFYRNyQpJpbjfkrAZ6FfxE9fLmp5mD";
+
 
 
     private Button btnStart;
@@ -33,7 +40,7 @@ public class LauncherActivity extends AppCompatActivity implements View.OnClickL
     private Button btnAddFriend;
 
     //TODO
-    private String TAG="xxl LauncherActivity";
+    private String TAG="C LauncherActivity";
     private String AUTO = "auto-accepted";
     private SysApp application;
 
@@ -46,7 +53,10 @@ public class LauncherActivity extends AppCompatActivity implements View.OnClickL
         initView();
         testGson();
         initCarrierNet();
+
     }
+
+
 
 
     private void initView(){
@@ -86,9 +96,9 @@ public class LauncherActivity extends AppCompatActivity implements View.OnClickL
                     //get the QRCode Info
 
                     Log.i(TAG,"on click btn_add_friend :" + strAddr + "," + strID);
-                    application.setFriendID(strID);
-                    application.setFriendAddr(strAddr);
-                    application.getCarrier().addFriend(strAddr,AUTO);
+                    application.setFriendID(friendUserId);
+                    application.setFriendAddr(friendUserAddress);
+                    application.getCarrier().addFriend(friendUserAddress,AUTO);
 
 
                     break;
@@ -161,7 +171,7 @@ public class LauncherActivity extends AppCompatActivity implements View.OnClickL
         return path;
     }
 
-    static class CarrierHandler extends AbstractCarrierHandler {
+     class CarrierHandler extends AbstractCarrierHandler {
 
         Synchronizer synch = new Synchronizer();
         String from;
@@ -198,7 +208,10 @@ public class LauncherActivity extends AppCompatActivity implements View.OnClickL
         public void onFriendMessage(Carrier carrier,String fromId, String message) {
 
             Log.i(CALLBACK,"address:" + fromId + "connection changed to: " + message);
-
+            Intent intent = new Intent();
+            intent.setAction(GameCommon.ACTION_MESSAGE);
+            intent.putExtra(GameCommon.ACTION_VALUE,message);
+            LauncherActivity.this.sendBroadcast(intent);
 
         }
     }
