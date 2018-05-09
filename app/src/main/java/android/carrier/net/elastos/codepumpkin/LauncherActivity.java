@@ -34,6 +34,7 @@ public class LauncherActivity extends AppCompatActivity implements View.OnClickL
 
     //TODO
     private String TAG="xxl ";
+    private String AUTO = "auto-accepted";
     SysApp application;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -62,20 +63,35 @@ public class LauncherActivity extends AppCompatActivity implements View.OnClickL
         SysApp application = (SysApp)this.getApplicationContext();
 
         try {
+
+            String strID ="";
+            String strAddr  ="";
             //以下添加事件
             switch (v.getId()){
                 case R.id.btn_start:
                     startActivity(new Intent(LauncherActivity.this,MainActivity.class));
                     break;
                 case R.id.btn_my_info:
+                    //get user info
+
+                    strAddr = application.getCarrier().getAddress();
+                    strID = application.getCarrier().getUserId();
+                    Log.i(TAG,"on click btn_my_info :" + strAddr + "," + strID);
                     //TODO
-                    //And show the user
-                    Log.i(TAG,"on click my Info address:" + application.getCarrier().getAddress());
+                    //create QRCode
+
 
                     break;
                 case R.id.btn_add_friend:
                     //TODO
-                    //Log.i(TAG,"address:" + application.getUserAddr());
+                    //get the QRCode Info
+
+                    Log.i(TAG,"on click btn_add_friend :" + strAddr + "," + strID);
+                    application.setFriendID(strID);
+                    application.setFriendAddr(strAddr);
+                    application.getCarrier().addFriend(strAddr,AUTO);
+
+
                     break;
             }
 
@@ -119,14 +135,11 @@ public class LauncherActivity extends AppCompatActivity implements View.OnClickL
 
             //1.2获得Carrier的地址
             String carrierAddr = carrierInst.getAddress();
-            application.setUserAddr(carrierAddr);
             Log.i(TAG,"address: " + carrierAddr);
 
             //1.3获得Carrier的用户ID
             String carrierUserID = carrierInst.getUserId();
             Log.i(TAG,"userID: " + carrierUserID);
-            application.setUserID(carrierUserID);
-
 
             //1.4启动网络
             carrierInst.start(1000);

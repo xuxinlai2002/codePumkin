@@ -7,25 +7,26 @@ import org.elastos.carrier.Carrier;
 public class SysApp extends Application {
 
 
-    String userID = "";
-    String userAddr = "";
+    String friendID = "";
+    String friendAddr = "";
     Carrier carrierInst = null;
 
-    public String getUserID() {
-        return userID;
+    public String getFriendID() {
+        return friendID;
     }
 
-    public void setUserID(String userID) {
-        this.userID = userID;
+    public void setFriendID(String friendID) {
+        this.friendID = friendID;
     }
 
-    public String getUserAddr() {
-        return userAddr;
+    public String getFriendAddr() {
+        return friendAddr;
     }
 
-    public void setUserAddr(String userAddr) {
-        this.userAddr = userAddr;
+    public void setFriendAddr(String getFriendAddr) {
+        this.friendAddr = getFriendAddr;
     }
+
 
     public Carrier getCarrier() {
         return carrierInst;
